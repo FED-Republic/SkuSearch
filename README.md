@@ -10,7 +10,7 @@ Based on RectJs and modified [Yireo_React](https://github.com/yireo-training/Yir
 
 ## Installation
 
-Copy module folder to App/Code folder
+Copy module folder to App/Code/Demo folder
 
     php bin/magento module:enable Demo_SkuSearch
     php bin/magento setup:upgrade
