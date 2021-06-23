@@ -1,0 +1,23 @@
+{
+    "name": "Demo/magento2-sku-search",
+    "description": "Sku Search module using composer!",
+    "require": {
+    },
+    "type": "magento2-module",
+    "version": "1.0.0",
+    "extra": {
+        "map": [
+            [
+                "*",
+                "Demo/SkuSearch"
+            ]
+        ]
+    },
+    "authors": [
+        {
+            "name": "FED",
+            "homepage": "https://www.google.com/",
+            "role": "Developer"
+        }
+    ]
+}
