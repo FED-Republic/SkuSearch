@@ -1,6 +1,7 @@
 # About
 This is a Magento 2 - Sku Search module.
-Based on RectJs and modified [Yireo_React](https://github.com/yireo-training/Yireo_React) module.
+Based on React Js and modified [Yireo_React](https://github.com/yireo-training/Yireo_React) module.
+Research/example of React Js integration to Magento 2. Works well with Magento 2.4 
 
 # Installation
 
